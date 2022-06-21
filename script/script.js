@@ -1,6 +1,6 @@
 let lists = JSON.parse(localStorage.getItem('records')) ?
     JSON.parse(localStorage.getItem('records')) : [{
-        name: 'Lerato',
+        name: 'Philani',
         rgb: '',
 
     }];
